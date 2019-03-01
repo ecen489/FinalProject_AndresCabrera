@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MiniProject_AndresCabrera</string>
+    <string name="textView">All About Animals!</string>
+    <string name="button">Reset</string>
+    <string name="textView2">Animals Learned: 0.0%</string>
+    <string name="textView3">Animal Quiz</string>
+    <string name="textView4">Question</string>
+    <string name="button2">Submit</string>
+    <string name="editText">Enter Answer Here</string>
+
+    <string name="button11">Animals</string>
+    <string name="button3">Stop</string>
+    <string name="button4">Go Back</string>
+    <string name="button9">Previous</string>
+    <string name="button10">Next</string>
+
+    <string name="button5">Go Back</string>
+    <string name="button6">Animal</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
